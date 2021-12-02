@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidIntents</string>
+    <string name="open_me">Open Me</string>
 </resources>
